@@ -1,0 +1,1 @@
+This is a Fullstack ToDo app based on Flask and other interesting technologies.
